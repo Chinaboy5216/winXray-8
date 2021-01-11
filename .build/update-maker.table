@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/winXray/winXray/master/release/update/";
+description="发布 v2.5，PAC 支持导入IP地址库并已兼容 Telegram ，增加新增编辑代理服务器对话框，界面调优，代码优化改进。";
+outputDir="/release/update/"
+}
